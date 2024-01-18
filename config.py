@@ -32,15 +32,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/AnonymousX1025/AnonXMusic",
+    "https://t.me/TatsuyaMusicStream/12",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/nakama_asl")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/faiirymutualan")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SemuaAreaVirtualGroup")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Cari_Teman_Kenalan_Pacar_Id")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -78,13 +78,13 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/0d8b2acb6b7fd31de0868.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/db4892a4ffc5a54dae84e.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://graph.org/file/0d8b2acb6b7fd31de0868.jpg"
+    "PING_IMG_URL", "https://telegra.ph/file/db4892a4ffc5a54dae84e.jpg"
 )
 PLAYLIST_IMG_URL = "https://graph.org/file/0d8b2acb6b7fd31de0868.jpg"
-STATS_IMG_URL = "https://graph.org/file/0d8b2acb6b7fd31de0868.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/db4892a4ffc5a54dae84e.jpg"
 TELEGRAM_AUDIO_URL = "https://graph.org/file/0d8b2acb6b7fd31de0868.jpg"
 TELEGRAM_VIDEO_URL = "https://graph.org/file/0d8b2acb6b7fd31de0868.jpg"
 STREAM_IMG_URL = "https://graph.org/file/0d8b2acb6b7fd31de0868.jpg"
