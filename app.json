@@ -42,6 +42,11 @@
         "value": "",
         "required": true
       },
+      "MUST_JOIN": {
+        "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya",
+        "required": true,
+        "value": "-100"
+      },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @StringFatherBot on Telegram.",
         "value": "",
