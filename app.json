@@ -32,6 +32,11 @@
         "value": "",
         "required": true
       },
+      "START_IMG_URL": {
+        "description": "ambil link image telegraph"
+        "value": "",
+        "required": true 
+      },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
         "value": "",
