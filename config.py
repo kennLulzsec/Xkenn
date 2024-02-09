@@ -39,7 +39,7 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/bee_domp")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Cari_Teman_Mutualan_Indo")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/cari_kawanindonesia")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
@@ -78,13 +78,13 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/5a8723904efd2d9dc6728.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/3a162311126c07b637845.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/2dee4df66472625b2ea82.jpg"
+    "PING_IMG_URL", "https://telegra.ph/file/80e6488356f71bbe41026.jpg"
 )
 PLAYLIST_IMG_URL = "https://graph.org/file/0d8b2acb6b7fd31de0868.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/5a8723904efd2d9dc6728.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/456cbdd48df396d2c4fa3.jpg"
 TELEGRAM_AUDIO_URL = "https://graph.org/file/0d8b2acb6b7fd31de0868.jpg"
 TELEGRAM_VIDEO_URL = "https://graph.org/file/0d8b2acb6b7fd31de0868.jpg"
 STREAM_IMG_URL = "https://graph.org/file/0d8b2acb6b7fd31de0868.jpg"
